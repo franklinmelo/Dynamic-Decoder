@@ -1,0 +1,14 @@
+{
+    "vehicle" : {
+        "name": "ninja 250",
+        "brand": "kawazaki"
+    },
+    "body": {
+        "type": "moto",
+        "data": {
+            "color": "black",
+            "horse_power": 39,
+            "cylinderd": 250,
+        }
+    }
+}
